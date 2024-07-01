@@ -9,4 +9,4 @@ Step 3: Copy the code from the 'MySql commands.txt' file and run it in the MySql
 
 Step 4: Open the Python source code and change the host, user, and password to the one you have set.
 
-Step 5; Run the Python code and your Note-Taking Application with a MySql connection is ready for use.
+Step 5: Run the Python code and your Note-Taking Application with a MySql connection is ready for use.
